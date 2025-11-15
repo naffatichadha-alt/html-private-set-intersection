@@ -95,7 +95,7 @@ Beyond direct token attacks, there's also the issue of PSI being possible to de-
 
 ## Further Reading
 
-- https://docs.monadical.com/06IRHuDgS8CKYvvKr04g7w
+- https://docs.sweeting.me/s/cookie-dilemma
 - ⭐️ https://link.springer.com/chapter/10.1007/978-3-031-54776-8_4
 - https://github.com/OpenMined/PSI
 - https://github.com/mcoder/private-set-intersection
@@ -103,3 +103,6 @@ Beyond direct token attacks, there's also the issue of PSI being possible to de-
 - https://eprint.iacr.org/2019/1255.pdf
 - https://eprint.iacr.org/2023/030.pdf
 - https://eprint.iacr.org/2021/728.pdf
+- https://security.stackexchange.com/questions/103645/does-ssl-tls-provide-non-repudiation-service
+- https://tlsnotary.org/
+- https://github.com/ArchiveBox/ArchiveBox
